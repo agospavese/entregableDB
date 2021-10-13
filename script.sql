@@ -78,9 +78,9 @@ SELECT * FROM notas;
 
 INSERT INTO categorias (categories_id, idNota, idUsuario, name )
 VALUES (DEFAULT, '1', '1','Libros a comprar'),
-(DEFAULT, '2', '1','Shopping'),
-(DEFAULT, '3', '2','Ocio'),
-(DEFAULT, '4', '3','Paseo'),
+(DEFAULT, '2', '2','Shopping'),
+(DEFAULT, '3', '3','Ocio'),
+(DEFAULT, '4', '4','Paseo'),
 (DEFAULT, '5', '5','Estudio'),
 (DEFAULT, '6', '6','Super'),
 (DEFAULT, '7', '7','Ocio'),
